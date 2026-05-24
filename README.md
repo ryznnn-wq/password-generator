@@ -1,2 +1,2 @@
 # password-generator
-prorgam pembuatan password acak berbasis HTML
+prorgam pembuatan password acak 
